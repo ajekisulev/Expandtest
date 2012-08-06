@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Options ConnectionInfoMessage="True" UIType="TabbedMDI" />
+  <SchemaModules>
+    <SchemaModule Name="LogicModule" Version="12.1.5.1" IsNewNode="True" />
+    <SchemaModule Name="SchedulerModuleBase" Version="12.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerWindowsFormsModule" Version="12.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="12.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="12.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="XpandSystemModule" Version="12.1.5.1" IsNewNode="True" />
+    <SchemaModule Name="XpandTreeListEditorsWinModule" Version="12.1.5.1" IsNewNode="True" />
+  </SchemaModules>
+</Application>
